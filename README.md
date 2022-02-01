@@ -10,7 +10,9 @@
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas Na Descomplica Faculdade Digital e Desenvolvimento Anroid na DIO ...
 - 📫 Meu contato: brunocnsantos@gmail.com ...
 - 😄 Pronouns: não me importo com qual você vai usar, mas que seja com respeito. Me identifico com Ele/Dele ...
+
 -->
+
 <div align="center">
   <a href="https://github.com/brunocnsantos">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=brunocnsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
