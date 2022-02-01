@@ -6,7 +6,7 @@
 </div>
   
  
- #### - Estudante de Analise e desenvolvimento de Sistemas e Desenvolvimento Mobile!
+ #### - Estudante de Analise e Desenvolvimento de Sistemas e Desenvolvimento Mobile!
  #### - Também sou criador de conteúdo para YouTube. 
  
  #### - Canal sejageek.
