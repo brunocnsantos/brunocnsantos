@@ -7,9 +7,7 @@
   
  
  #### - Estudante de Analise e Desenvolvimento de Sistemas e Desenvolvimento Mobile!
- #### - Também sou criador de conteúdo para YouTube. 
- 
- #### - Canal sejageek.
+ #### - Também sou criador de conteúdo para YouTube. Canal sejageek.
 [![YouTube](https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/40/000000/external-youtube-content-creator-xnimrodx-lineal-color-xnimrodx-2.png)](https://abre.ai/curiosidadesgeek)
   
  #### - Apaixonado por ensinar tudo que aprende.
