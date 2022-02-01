@@ -1,5 +1,11 @@
 ## Olá Mundo! Hello wold! Sou a BrunoCNSantos.
- - Estudante de Analise e desenvolvimento de Sistemas e Desenvolvimento Mobile! 
+
+<div align="center">
+  <a href="https://github.com/brunocnsantos">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=brunocnsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+ 
+ - Estudante de Analise e desenvolvimento de Sistemas e Desenvolvimento Mobile!
  - Também sou criador de conteúdo para YouTube. 
  - Canal sejageek.
 [![YouTube](https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/40/000000/external-youtube-content-creator-xnimrodx-lineal-color-xnimrodx-2.png)](https://abre.ai/curiosidadesgeek)
@@ -15,10 +21,6 @@
 
 -->
 
-<div align="center">
-  <a href="https://github.com/brunocnsantos">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=brunocnsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
