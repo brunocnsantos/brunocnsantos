@@ -1,7 +1,10 @@
 ## Olá Mundo! Hello wold! Sou a BrunoCNSantos.
 ### Estudante de Analise e desenvolvimento de Sistemas e Desenvolvimento Mobile! 
 ### Também sou criador de conteúdo para YouTube.
-## Apaixonado por ensinar tudo que aprende.
+### Apaixonado por ensinar tudo que aprende.
+### Adoro resolver problemas. (É clichê, mas é verdade!)
+
+
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas Na Descomplica Faculdade Digital e Desenvolvimento Anroid na DIO ...
 - 📫 Meu contato: brunocnsantos@gmail.com ...
 - 😄 Pronouns: não me importo com qual você vai usar, mas que seja com respeito. Me identifico com Ele/Dele ...
