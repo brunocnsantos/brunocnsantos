@@ -1,6 +1,7 @@
 ## Olá Mundo! Hello wold! Sou a BrunoCNSantos.
 ### Estudante de Analise e desenvolvimento de Sistemas e Desenvolvimento Mobile! 
-### Também sou criador de conteúdo para YouTube.
+### Também sou criador de conteúdo para YouTube. Canal sejageek.
+(https://www.youtube.com/channel/UCvWMG--AkQZQtM4-dFi5wGg)
 ### Apaixonado por ensinar tudo que aprende.
 ### Adoro resolver problemas. (É clichê, mas é verdade!)
 ### Sou criativo pra caramba.
