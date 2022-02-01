@@ -1,14 +1,17 @@
-## Olá Mundo! Hello wold! Sou a BrunoCNSantos.
+## Olá Mundo! Hello World! Sou a Bruno C N Santos.
 
 <div align="center">
   <a href="https://github.com/brunocnsantos">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=brunocnsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
  
  - Estudante de Analise e desenvolvimento de Sistemas e Desenvolvimento Mobile!
  - Também sou criador de conteúdo para YouTube. 
+ 
  - Canal sejageek.
 [![YouTube](https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/40/000000/external-youtube-content-creator-xnimrodx-lineal-color-xnimrodx-2.png)](https://abre.ai/curiosidadesgeek)
+  
  - Apaixonado por ensinar tudo que aprende.
  - Adoro resolver problemas. (É clichê, mas é verdade!)
  - Sou criativo pra caramba.
