@@ -4,7 +4,7 @@
 ### Apaixonado por ensinar tudo que aprende.
 ### Adoro resolver problemas. (É clichê, mas é verdade!)
 ### Sou criativo pra caramba.
-### Adoro o novo. ( Minha frase é: "O novo, dinovo. Inovar sempre!")
+### Adoro o novo. ( Minha frase é: "O novo, de novo. Inovar sempre!")
 -->
 
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas Na Descomplica Faculdade Digital e Desenvolvimento Anroid na DIO ...
