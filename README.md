@@ -1,4 +1,4 @@
-## Olá Mundo! Hello World! Sou a Bruno C N Santos.
+## Olá Mundo! Hello World! Sou Bruno C N Santos.
 
 <div align="center">
   <a href="https://github.com/brunocnsantos">
